@@ -7,9 +7,9 @@ reviewers:
 - fsferraz-rh
 - annelson-rh
 - cjnovak98
-- MrSantamaria
 - PeterCSRE
 - digilink
+- ryemorris
 approvers:
 - theautoroboto
 - katherinelc321
@@ -19,9 +19,9 @@ approvers:
 - fsferraz-rh
 - annelson-rh
 - cjnovak98
-- MrSantamaria
 - PeterCSRE
 - digilink
+- ryemorris
 maintainers:
 - theautoroboto
 - katherinelc321
@@ -31,6 +31,6 @@ maintainers:
 - fsferraz-rh
 - annelson-rh
 - cjnovak98
-- MrSantamaria
 - PeterCSRE
 - digilink
+- ryemorris
